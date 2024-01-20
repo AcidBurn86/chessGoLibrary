@@ -1,4 +1,4 @@
-module github.com/notnil/chess
+module github.com/AcidBurn86/chessGoLibrary
 
 go 1.14
 
